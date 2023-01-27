@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&family=Kumbh+Sans:wght@100;200;300;400;500;600;700;800;900&family=Manrope:wght@200;300;400;500;600;700;800&family=VT323&display=swap');
+
+:root{
+    --fonte-familia: 'Manrope', sans-serif;
+    --peso-fonte: 800;
+    --cor-fundo:hsl(218, 23%, 16%);
+    --cor-texto:hsl(193, 38%, 86%);
+    --cor-botao:hsl(150, 100%, 66%);
+    --cor-cartao:hsl(217, 19%, 24%);
+}
